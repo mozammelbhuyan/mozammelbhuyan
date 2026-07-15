@@ -86,6 +86,9 @@ Long-term goal: build a modern, modular ERP product informed by 13+ years of rea
 📄 **[Metadata-Driven Multi-Company ERP — Design Blueprint](https://github.com/mozammelbhuyan/erp-architecture-case-study)** *(ASL, Dhaka)*
 End-to-end architecture I designed for a modular, multi-company ERP — database schema, a metadata-driven screen/menu engine (config-based UI generation instead of hardcoded forms), field-level privilege model, and 100+ transaction screens across 8 modules (System Admin, Administration, Master Data, Finance & Accounts, Procurement, Sales & CRM, Inventory, Project Management). This design later became the reference architecture for the 6-company Lira Group ERP rollout.
 
+📄 **[Enterprise Accounting Engine — SQL Design Highlights](https://github.com/mozammelbhuyan/enterprise-accounting-engine)** *(personal design work)*
+Curated T-SQL procedures from a multi-business accounting & inventory blueprint I designed independently — fiscal-period resolution, balanced-entry voucher posting/unposting, year-end closing with P&L netting, and a FIFO/LIFO/Weighted-Average inventory costing engine.
+
 **Customized Software Development Projects**
 - **WPPF Software** for Beximco Group (Pharmaceutical) — Requirement Discovery & Analysis, System Design, Documentation
 - **E-Procurement Software** for Seven Circle Group (Cement) — Requirement Discovery & Analysis, System Design, Documentation
