@@ -16,7 +16,7 @@
 
 ERP professional with around a decade of hands-on experience in **planning, implementation, commissioning, and post-implementation support** of enterprise systems. Skilled in SDLC, RDBMS, CRM, business process design, team leadership, project management, and user training.
 
-Master's degree in Software Engineering, with strong experience delivering **customized ERP solutions** across manufacturing, distribution, retail, textile, and trading sectors. Currently deepening my expertise in global ERP platforms — actively working toward **Microsoft Dynamics 365 Business Central** functional consulting (MB-800), while continuing to build on a deep foundation in **SAP Business One** architecture and implementation practice.
+Master's degree in Software Engineering, with strong experience delivering **customized ERP solutions** across manufacturing, distribution, retail, textile, and trading sectors. Currently deepening my expertise in global ERP platforms — actively working toward **Microsoft Dynamics 365 Business Central** functional consulting (MB-800).
 
 Long-term goal: build a modern, modular ERP product informed by 13+ years of real-world implementation experience across accounts, sales, procurement, inventory, HR, payroll, CRM, and project modules — from requirement discovery through design, development, deployment, and support.
 
@@ -81,6 +81,11 @@ Long-term goal: build a modern, modular ERP product informed by 13+ years of rea
 | **Hightech Professional** | Retail Electronics | Purchase, Sales, Inventory, Accounts |
 | **Universal System** | Retail Electronics | Purchase, Sales, Inventory, Accounts |
 
+**🏗️ Architecture Case Study**
+
+📄 **[Metadata-Driven Multi-Company ERP — Design Blueprint](https://github.com/mozammelbhuyan/erp-architecture-case-study)** *(ASL, Dhaka)*
+End-to-end architecture I designed for a modular, multi-company ERP — database schema, a metadata-driven screen/menu engine (config-based UI generation instead of hardcoded forms), field-level privilege model, and 100+ transaction screens across 8 modules (System Admin, Administration, Master Data, Finance & Accounts, Procurement, Sales & CRM, Inventory, Project Management). This design later became the reference architecture for the 6-company Lira Group ERP rollout.
+
 **Customized Software Development Projects**
 - **WPPF Software** for Beximco Group (Pharmaceutical) — Requirement Discovery & Analysis, System Design, Documentation
 - **E-Procurement Software** for Seven Circle Group (Cement) — Requirement Discovery & Analysis, System Design, Documentation
@@ -92,7 +97,7 @@ Long-term goal: build a modern, modular ERP product informed by 13+ years of rea
 `General Accounts` `Fixed Assets` `AR & AP` `Field Force Management` `Ecommerce & Back Office` `Import & Export (Commercial)` `Procurement & SCM` `Inventory/Logistics` `CRM` `Sales & Distribution (Primary & Secondary)` `POS` `Manufacturing & Planning` `BOM/Recipe & Costing` `Administration, HRM & Payroll` `Access Control & MIS Dashboards`
 
 ### 💻 Technical & Software Skills
-`ERP Implementation` `Custom ERP Architecture & Development` `Database Design` `ERP Module Integration` `Technical Documentation` `Report Design` `UAT & Go-Live` `Support & Maintenance` `Change Request (CR) Management` `SAP Business One` `Microsoft Dynamics 365 Business Central (in progress)`
+`ERP Implementation` `Custom ERP Architecture & Development` `Database Design` `ERP Module Integration` `Technical Documentation` `Report Design` `UAT & Go-Live` `Support & Maintenance` `Change Request (CR) Management` `Microsoft Dynamics 365 Business Central (in progress)`
 
 ---
 
@@ -120,4 +125,4 @@ English (C1 – Working Proficiency) · Bangla (Native) · Chinese Mandarin (Bas
 
 ---
 
-<p align="center"><i>Open to remote ERP consulting opportunities (local, India, UK, US, Australia) — SAP Business One & Microsoft Dynamics 365 Business Central.</i></p>
+<p align="center"><i>Open to remote ERP consulting opportunities (local, India, UK, US, Australia) — Microsoft Dynamics 365 Business Central.</i></p>
