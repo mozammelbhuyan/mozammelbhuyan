@@ -22,7 +22,7 @@ Long-term goal: build a modern, modular ERP product informed by 13+ years of rea
 
 - 🔭 Currently working on: Modular multi-company ERP architecture, MB-800 certification prep
 - 🌱 Learning: Microsoft Dynamics 365 Business Central (functional & Power Platform)
-- 💬 Ask me about: SAP Business One, ERP implementation methodology, requirement discovery & business process design, custom ERP architecture
+- 💬 Ask me about: ERP implementation methodology, requirement discovery & business process design, custom ERP architecture
 - 📫 Reach me: emailtommhb@gmail.com | +88 01 914 214 092 (WhatsApp)
 - ⚽ Outside of work: football, swimming, jogging, reading, meditation
 
