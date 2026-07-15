@@ -89,6 +89,9 @@ End-to-end architecture I designed for a modular, multi-company ERP — database
 📄 **[Enterprise Accounting Engine — SQL Design Highlights](https://github.com/mozammelbhuyan/enterprise-accounting-engine)** *(personal design work)*
 Curated T-SQL procedures from a multi-business accounting & inventory blueprint I designed independently — fiscal-period resolution, balanced-entry voucher posting/unposting, year-end closing with P&L netting, and a FIFO/LIFO/Weighted-Average inventory costing engine.
 
+📄 **[Ride-Sharing Passenger Dispatch — Research Implementation](https://github.com/mozammelbhuyan/Python_ride_sharing_project)** *(Northeastern University research)*
+Codebase and algorithm documentation supporting our research (currently a preprint under peer review): *"A Novel Framework: Optimal Passenger Dispatch Approach Using Matching-Based Strategy in Ride-Sharing Systems"* (Albishari, Mozammel & Almeshari, 2023 — [DOI](https://doi.org/10.21203/rs.3.rs-2504590/v1)). Formulates real-time constraints and a 7-parameter scoring model, solved via weighted bipartite matching; validated on the T-Drive Beijing taxi dataset with ~35% mileage savings and 96% passenger satisfaction vs. a nearest-vehicle baseline.
+
 **Customized Software Development Projects**
 - **WPPF Software** for Beximco Group (Pharmaceutical) — Requirement Discovery & Analysis, System Design, Documentation
 - **E-Procurement Software** for Seven Circle Group (Cement) — Requirement Discovery & Analysis, System Design, Documentation
@@ -103,6 +106,9 @@ Curated T-SQL procedures from a multi-business accounting & inventory blueprint 
 `ERP Implementation` `Custom ERP Architecture & Development` `Database Design` `ERP Module Integration` `Technical Documentation` `Report Design` `UAT & Go-Live` `Support & Maintenance` `Change Request (CR) Management` `Microsoft Dynamics 365 Business Central (in progress)`
 
 ---
+
+### 📚 Publications
+- Albishari, M., **Mozammel, M.**, & Almeshari, K. (2023). *A Novel Framework: Optimal Passenger Dispatch Approach Using Matching-Based Strategy in Ride-Sharing Systems.* Preprint, currently under peer review — Research Square. [DOI: 10.21203/rs.3.rs-2504590/v1](https://doi.org/10.21203/rs.3.rs-2504590/v1)
 
 ### 🎓 Education
 - **MSc, Software Engineering** — Northeastern University, China (2017 – 2020)
