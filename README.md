@@ -6,10 +6,6 @@
   <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-informational?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mozammelbhuyan&style=for-the-badge&color=blue" alt="profile views"/>
-</p>
-
 ---
 
 ### 🧭 About Me
