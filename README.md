@@ -22,14 +22,14 @@ Long-term goal: build a modern, modular ERP product informed by 13+ years of rea
 - 📫 Reach me: emailtommhb@gmail.com | +88 01 914 214 092 (WhatsApp)
 - ⚽ Outside of work: football, swimming, jogging, reading, meditation
 
-> 🔎 The [Python_ride_sharing_project](https://github.com/mozammelbhuyan/Python_ride_sharing_project) repo on this profile ties back to my research internship at the Northeastern University AI Research Lab, where I worked on AI/ML-based passenger dispatch optimization for ride-sharing platforms.
+> 🔎 The [Ride-Sharing Passenger Dispatch project](https://github.com/mozammelbhuyan/Python_ride_sharing_project) on this profile ties back to my research internship at the Northeastern University AI Research Lab, where I worked on AI/ML-based passenger dispatch optimization for ride-sharing platforms.
 
 ---
 
 ### 🏢 Work Experience
 
 **Manager – IT & ERP (HOD)** | *Lira Group of Industries, Dhaka, Bangladesh* (Polymer Manufacturing & Industrial Group) — *Jul 2023 – Present*
-- Led architecture, development, and implementation of a modular, multi-company ERP system across six sister concerns — requirement discovery, system design, data modeling, workflow engineering, integration, deployment, and post-go-live support.
+- Led architecture, development, and implementation of a modular, multi-company ERP system across 8 sister concerns — requirement discovery, system design, data modeling, workflow engineering, integration, deployment, and post-go-live support.
 - Directed all change requests, integrations, and cross-module improvements aligning ERP workflows with manufacturing, distribution, and retail operations.
 - Redesigned enterprise-wide IT infrastructure — security, uptime, connectivity across multiple plants, depots, and HQ.
 - Managed and mentored IT & ERP teams delivering MIS insights, applications, and cybersecurity readiness.
@@ -80,7 +80,10 @@ Long-term goal: build a modern, modular ERP product informed by 13+ years of rea
 **🏗️ Architecture Case Study**
 
 📄 **[Metadata-Driven Multi-Company ERP — Design Blueprint](https://github.com/mozammelbhuyan/erp-architecture-case-study)** *(ASL, Dhaka)*
-End-to-end architecture I designed for a modular, multi-company ERP — database schema, a metadata-driven screen/menu engine (config-based UI generation instead of hardcoded forms), field-level privilege model, and 100+ transaction screens across 8 modules (System Admin, Administration, Master Data, Finance & Accounts, Procurement, Sales & CRM, Inventory, Project Management). This design later became the reference architecture for the 6-company Lira Group ERP rollout.
+End-to-end architecture I designed for a modular, multi-company ERP — database schema, a metadata-driven screen/menu engine (config-based UI generation instead of hardcoded forms), field-level privilege model, and 100+ transaction screens across 8 modules (System Admin, Administration, Master Data, Finance & Accounts, Procurement, Sales & CRM, Inventory, Project Management). This design later became the reference architecture for the 8-company Lira Group ERP rollout.
+
+📄 **[Enterprise Data-Driven ERP — Multi-Company Manufacturing Platform](https://github.com/mozammelbhuyan/lira-erp-leadership)** *(Lira Group, Dhaka — current role)*
+As Head of IT & ERP, I designed and led delivery of a fully data-driven, config-first ERP now in stable production across **8 companies** (built to scale to unlimited more) — covering AR/AP, Sales & Distribution, Procurement, Inventory, Production, Field Force, and Forecasting, with 150+ reports, a dedicated IT support panel, 24/7 reliability, and a sync layer to the group's existing accounting software. Built on Java/Spring Boot + MS SQL Server. (Capability-level case study — schema and implementation details remain internal.)
 
 📄 **[Enterprise Accounting Engine — SQL Design Highlights](https://github.com/mozammelbhuyan/enterprise-accounting-engine)** *(personal design work)*
 Curated T-SQL procedures from a multi-business accounting & inventory blueprint I designed independently — fiscal-period resolution, balanced-entry voucher posting/unposting, year-end closing with P&L netting, and a FIFO/LIFO/Weighted-Average inventory costing engine.
