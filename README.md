@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Mozammel Hossain Bhuyan</h1>
-<h3 align="center">ERP Lead | Techno-Functional Consultant | ERP Implementation Specialist | Custom ERP Solutions | Business Process Optimization</h3>
+<h3 align="center">Microsoft Dynamics 365 Business Central Consultant (in progress) | ERP Implementation & Architecture Specialist | 13+ Years in Enterprise ERP</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-mozammel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -10,15 +10,13 @@
 
 ### 🧭 About Me
 
-ERP professional with around a decade of hands-on experience in **planning, implementation, commissioning, and post-implementation support** of enterprise systems. Skilled in SDLC, RDBMS, CRM, business process design, team leadership, project management, and user training.
+I'm building toward a career as a **Microsoft Dynamics 365 Business Central functional consultant** (MB-800 in progress), backed by 13+ years of hands-on ERP implementation and architecture work — planning, requirement discovery, system design, deployment, and post-implementation support across finance, procurement, inventory, sales, HR, and payroll.
 
-Master's degree in Software Engineering, with strong experience delivering **customized ERP solutions** across manufacturing, distribution, retail, textile, and trading sectors. Currently deepening my expertise in global ERP platforms — actively working toward **Microsoft Dynamics 365 Business Central** functional consulting (MB-800).
+That depth comes from designing and leading full ERP builds myself — not just configuring existing platforms — across manufacturing, distribution, retail, and textile sectors. It's the kind of grounding that shows up in how I approach BC implementations: I've had to solve the underlying business logic problems (costing, multi-entity accounting, workflow design) from first principles, not just apply a template.
 
-Long-term goal: build a modern, modular ERP product informed by 13+ years of real-world implementation experience across accounts, sales, procurement, inventory, HR, payroll, CRM, and project modules — from requirement discovery through design, development, deployment, and support.
-
-- 🔭 Currently working on: Modular multi-company ERP architecture, MB-800 certification prep
-- 🌱 Learning: Microsoft Dynamics 365 Business Central (functional & Power Platform)
-- 💬 Ask me about: ERP implementation methodology, requirement discovery & business process design, custom ERP architecture
+- 🔭 Currently working on: MB-800 certification, hands-on BC26 practice
+- 🌱 Learning: Business Central functional & Power Platform integration
+- 💬 Ask me about: ERP implementation methodology, requirement discovery & business process design, ERP architecture
 - 📫 Reach me: emailtommhb@gmail.com | +88 01 914 214 092 (WhatsApp)
 - ⚽ Outside of work: football, swimming, jogging, reading, meditation
 
@@ -83,7 +81,7 @@ Long-term goal: build a modern, modular ERP product informed by 13+ years of rea
 End-to-end architecture I designed for a modular, multi-company ERP — database schema, a metadata-driven screen/menu engine (config-based UI generation instead of hardcoded forms), field-level privilege model, and 100+ transaction screens across 8 modules (System Admin, Administration, Master Data, Finance & Accounts, Procurement, Sales & CRM, Inventory, Project Management). This design later became the reference architecture for the 8-company Lira Group ERP rollout.
 
 📄 **[Enterprise Data-Driven ERP — Multi-Company Manufacturing Platform](https://github.com/mozammelbhuyan/lira-erp-leadership)** *(Lira Group, Dhaka — current role)*
-As Head of IT & ERP, I designed and led delivery of a fully data-driven, config-first ERP now in stable production across **8 companies** (built to scale to unlimited more) — covering AR/AP, Sales & Distribution, Procurement, Inventory, Production, Field Force, and Forecasting, with 150+ reports, a dedicated IT support panel, 24/7 reliability, and a sync layer to the group's existing accounting software. Built on Java/Spring Boot + MS SQL Server. (Capability-level case study — schema and implementation details remain internal.)
+As Head of IT & ERP, I designed and led delivery of a fully data-driven, config-first ERP now stable in production across **8 companies**, architected to onboard additional companies through configuration rather than new development — covering AR/AP, Sales & Distribution, Procurement, Inventory, Production, Field Force, and Forecasting, with 150+ reports, a dedicated IT support panel, and a sync layer to the group's existing accounting software. Built on Java/Spring Boot + MS SQL Server. (Capability-level case study — schema and implementation details remain internal.)
 
 📄 **[Enterprise Accounting Engine — SQL Design Highlights](https://github.com/mozammelbhuyan/enterprise-accounting-engine)** *(personal design work)*
 Curated T-SQL procedures from a multi-business accounting & inventory blueprint I designed independently — fiscal-period resolution, balanced-entry voucher posting/unposting, year-end closing with P&L netting, and a FIFO/LIFO/Weighted-Average inventory costing engine.
@@ -133,4 +131,4 @@ English (C1 – Working Proficiency) · Bangla (Native) · Chinese Mandarin (Bas
 
 ---
 
-<p align="center"><i>Open to remote ERP consulting opportunities (local, India, UK, US, Australia) — Microsoft Dynamics 365 Business Central.</i></p>
+<p align="center"><i>Open to remote Microsoft Dynamics 365 Business Central consulting opportunities (local, India, UK, US, Australia).</i></p>
