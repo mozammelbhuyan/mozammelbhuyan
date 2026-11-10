@@ -1,111 +1,102 @@
 <h1 align="center">Hi 👋, I'm Md. Mozammel Hossain Bhuyan</h1>
-<h3 align="center">Microsoft Dynamics 365 Business Central Consultant (in progress) | ERP Implementation & Architecture Specialist | 13+ Years in Enterprise ERP</h3>
+<h3 align="center">Head of IT & ERP | ERP Lead & Solution Designer | Business Systems Analyst | 13+ Years in ERP</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-mozammel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-informational?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/md-mozammel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-informational?style=for-the-badge"/>
 </p>
 
 ---
 
 ### 🧭 About Me
 
-I'm building toward a career as a **Microsoft Dynamics 365 Business Central functional consultant** (MB-800 in progress), backed by 13+ years of hands-on ERP implementation and architecture work — planning, requirement discovery, system design, deployment, and post-implementation support across finance, procurement, inventory, sales, HR, and payroll.
+ERP leader and business systems analyst with 13+ years of experience taking ERP systems from requirement discovery to go-live and support for manufacturing, distribution, retail and textile companies.
 
-That depth comes from designing and leading full ERP builds myself — not just configuring existing platforms — across manufacturing, distribution, retail, and textile sectors. It's the kind of grounding that shows up in how I approach BC implementations: I've had to solve the underlying business logic problems (costing, multi-entity accounting, workflow design) from first principles, not just apply a template.
+As Head of IT & ERP at Lira Group, I run a multi-company ERP for eight sister concerns, along with the group's daily IT operations. I own the ERP blueprint, the database design (SQL Server), stored procedures, Crystal Reports and change control. I deliver much of my recent work through AI-assisted development (Claude Code), always under my own functional design, testing and change control.
 
-- 🔭 Currently working on: MB-800 certification, hands-on BC26 practice
-- 🌱 Learning: Business Central functional & Power Platform integration
-- 💬 Ask me about: ERP implementation methodology, requirement discovery & business process design, ERP architecture
-- 📫 Reach me: emailtommhb@gmail.com | +88 01 914 214 092 (WhatsApp)
+- 🔭 Currently: leading ERP enhancements at Lira Group; preparing for SAP Business One certification
+- 💬 Ask me about: ERP implementation, requirement discovery, business process design, ERP architecture
+- 📫 Reach me: emailtommhb@gmail.com | +88 01914 214 092 (WhatsApp)
 - ⚽ Outside of work: football, swimming, jogging, reading, meditation
-
-> 🔎 The [Ride-Sharing Passenger Dispatch project](https://github.com/mozammelbhuyan/Python_ride_sharing_project) on this profile ties back to my research internship at the Northeastern University AI Research Lab, where I worked on AI/ML-based passenger dispatch optimization for ride-sharing platforms.
 
 ---
 
 ### 🏢 Work Experience
 
 **Manager – IT & ERP (HOD)** | *Lira Group of Industries, Dhaka, Bangladesh* (Polymer Manufacturing & Industrial Group) — *Jul 2023 – Present*
-- Led architecture, development, and implementation of a modular, multi-company ERP system across 8 sister concerns — requirement discovery, system design, data modeling, workflow engineering, integration, deployment, and post-go-live support.
-- Directed all change requests, integrations, and cross-module improvements aligning ERP workflows with manufacturing, distribution, and retail operations.
-- Redesigned enterprise-wide IT infrastructure — security, uptime, connectivity across multiple plants, depots, and HQ.
-- Managed and mentored IT & ERP teams delivering MIS insights, applications, and cybersecurity readiness.
+- Built the group's ERP from scratch after the previous software failed: took a basic Sales, Inventory and AR system live within one month (requirements, scope, blueprint, reports and server deployment by me; Java coding by freelancers to my design), then grew it in 7 phases into a modular multi-company ERP for eight sister concerns.
+- Direct all change requests, integrations and cross-module improvements for manufacturing, distribution and retail operations.
+- Introduced AI-assisted development under strict change control (test server, backups, change reports, developer handover), delivering a major ERP enhancement programme and two new systems in 2026.
+- Redesigned enterprise-wide IT infrastructure — security, uptime and connectivity across plants, depots and head office — and introduced IT policies and cybersecurity standards.
+- Manage and mentor the IT & ERP team; deliver MIS insights and management reporting.
 
-**Head of ERP** | *Automation Services Ltd. (ASL), Dhaka, Bangladesh* — *Aug 2020 – Jun 2023*
-- Led ERP demonstrations, requirement analysis, technical proposals, design docs, prototyping, implementation, and training.
-- Techno-functional consultant for Fusion Infotech Ltd., covering requirements, planning, module design, and documentation for bespoke ERP.
-- Implemented AJU ERP across four client companies in manufacturing, trading, and service sectors.
+**Head of ERP** | *Automation Services Ltd. (ASL), Dhaka, Bangladesh* (Software Development & IT Consulting) — *Aug 2020 – Jun 2023*
+- Led the ERP team and ERP design: client demonstrations and presentations, requirement analysis, technical proposals, system blueprints, prototyping, implementation, training and post-go-live support.
+- Techno-functional consultant for Fusion Infotech Ltd.: requirements, system planning, module design and documentation for bespoke ERP solutions.
+- Implemented AJU ERP in four client companies in the manufacturing, trading and service sectors.
 
 **Apprentice (Research Intern)** | *AI Research Lab, Northeastern University, China* — *Sep 2018 – Jan 2020*
-- Machine learning experiments and real-time data analysis for urban computing / smart city applications.
+- Machine learning experiments and real-time data analysis for urban computing and smart city applications.
 - Developed AI/ML algorithms for passenger dispatch optimization on ride-sharing platforms.
-- Completed a professional internship at NEUSOFT, contributing to a Hospital Information System (C#, MS SQL Server).
+- Interned at NEUSOFT as a software engineer on a Hospital Information System (C#, MS SQL Server).
 
-**Senior Software Developer** | *ZAB ERP Ltd, Dhaka, Bangladesh* — *Feb 2015 – Aug 2018*
-- Translated client business requirements into ERP design specs across manufacturing, distribution, and retail.
-- Developed functional specifications, managed module development, and conducted end-user/client training.
+**Senior Software Developer** | *ZAB ERP Ltd, Dhaka, Bangladesh* — *Feb 2015 – Aug 2017*
+- Translated client business requirements into ERP design specifications across manufacturing, distribution and retail.
+- Wrote functional specifications, managed module development and ran end-user and client training.
 
 **Software Programmer** | *Global (BD) Nationwide Ltd, Dhaka, Bangladesh* — *Feb 2012 – Jan 2015*
-- Supported and enhanced ERP applications for SME clients in manufacturing, trading, and service.
-- Managed project planning, scheduling, training, go-live, maintenance, and documentation.
+- Supported and enhanced ERP applications for SME clients in manufacturing, trading and service.
+- Managed project planning, scheduling, training, go-live, maintenance and documentation.
 
 ---
 
-### 🚀 Featured ERP Implementation Projects
+### 🚀 Key Projects (2025 – 2026)
 
-| Project | Sector | Modules |
+| Project | Status | What I did |
 |---|---|---|
-| **Unimart** | Retail Superstore | POS System, Backoffice ERP |
-| **Lira Industrial Enterprise Ltd** | Manufacturing (Lira Group) | Administration, Field Force Mgmt, Supply Chain, Inventory, AR/AP, Tally Integration |
-| **Lira Doors Ltd** | Manufacturing (Lira Group) | Administration, Field Force Mgmt, Supply Chain, Inventory, AR/AP, Tally Integration |
-| **Samrat Industries** | Manufacturing (Lira Group) | Administration, Field Force Mgmt, Supply Chain, Inventory, AR/AP, Tally Integration |
-| **Lira Polymer Industries Ltd** | Manufacturing (Lira Group) | Administration, Supply Chain, Inventory, AR/AP, Tally Integration |
-| **Samrat Packaging** | Manufacturing (Lira Group) | Administration, Supply Chain, Inventory, AR/AP, Tally Integration |
-| **Lira Central Warehouse** | Distribution/Warehousing (Lira Group) | Administration, Supply Chain, Inventory, AR/AP, Tally Integration |
-| **Automation Services Ltd** | Software Services | Administration, Purchase, Sales, HRM, Accounts |
-| **Tani's** | Retail Fashion | POS System, Backoffice ERP |
-| **Q-Bazar** | E-Commerce | Backoffice ERP |
-| **Khana's** | Franchise Restaurant Chain | Backoffice ERP |
-| **Bosila Garden City** | Real Estate/Land Development | Land Management System |
-| **Sanjana Fabrics Ltd** | Textile & Garments (Asiatic Group) | Administration, Accounts, Purchase, Sales, Production, Commercial, HR & Payroll |
-| **Asiatic Textiles Ltd** | Textile & Garments (Asiatic Group) | Administration, Accounts, Purchase, Sales, Production, Commercial, HR & Payroll |
-| **Afaz Weaving** | Textile & Garments (Asiatic Group) | Administration, Accounts, Purchase, Sales, Production, Commercial, HR & Payroll |
-| **Insignia** | Trading & Distribution | Administration, CRM, Purchase, Sales, HR & Payroll |
-| **Hightech Professional** | Retail Electronics | Purchase, Sales, Inventory, Accounts |
-| **Universal System** | Retail Electronics | Purchase, Sales, Inventory, Accounts |
+| **Group ERP Enhancement Programme** (Lira Group) | Live | 121 documented ERP changes in 4 weeks through AI-assisted development: 4 management dashboards, vehicle recommendation and depot-transfer planning, faster stored-procedure reports, sales quotation module |
+| **Production Planning Decision-Support System** (Lira Group) | Built and tested; pilot pending approval | Designed a system that scores ~2,200 production items nightly across 3 companies and recommends a 7-day machine and mold schedule, with English and Bangla explanations |
+| **FieldSync – Secondary Sales App** (Lira Group) | Ready; pending approval | Designed a standalone secondary-sales system: GPS-verified outlet visits, supervisor approval, on-the-spot orders, 80mm receipts with QR code, delivery challans, WhatsApp/SMS sharing |
+| **ASPI ERP** (co-developed with a Java developer partner) | Earlier version in use by a client | System analyst and functional designer: accounting-focused, multi-company ERP built on SAP Business One practice — IFRS-ready accounting, FIFO and weighted-average costing, Bangladesh VAT (Mushak 9.1 / 6.6), AIT and VDS |
 
-**🏗️ Architecture Case Study**
+*Source code for these systems is private.*
+
+### 🏗️ Case Studies
 
 📄 **[Metadata-Driven Multi-Company ERP — Design Blueprint](https://github.com/mozammelbhuyan/erp-architecture-case-study)** *(ASL, Dhaka)*
-End-to-end architecture I designed for a modular, multi-company ERP — database schema, a metadata-driven screen/menu engine (config-based UI generation instead of hardcoded forms), field-level privilege model, and 100+ transaction screens across 8 modules (System Admin, Administration, Master Data, Finance & Accounts, Procurement, Sales & CRM, Inventory, Project Management). This design later became the reference architecture for the 8-company Lira Group ERP rollout.
+Architecture for a modular, multi-company ERP: database schema, a metadata-driven screen/menu engine, a field-level privilege model and 100+ transaction screens across 8 modules.
 
-📄 **[Enterprise Data-Driven ERP — Multi-Company Manufacturing Platform](https://github.com/mozammelbhuyan/lira-erp-leadership)** *(Lira Group, Dhaka — current role)*
-As Head of IT & ERP, I designed and led delivery of a fully data-driven, config-first ERP now stable in production across **8 companies**, architected to onboard additional companies through configuration rather than new development — covering AR/AP, Sales & Distribution, Procurement, Inventory, Production, Field Force, and Forecasting, with 150+ reports, a dedicated IT support panel, and a sync layer to the group's existing accounting software. Built on Java/Spring Boot + MS SQL Server. (Capability-level case study — schema and implementation details remain internal.)
+📄 **[Enterprise Data-Driven ERP — Multi-Company Manufacturing Platform](https://github.com/mozammelbhuyan/lira-erp-leadership)** *(Lira Group — current role)*
+Capability-level case study of the Lira Group ERP (Java/Spring Boot + MS SQL Server): AR/AP, Sales & Distribution, Procurement, Inventory, Production and Field Force across 8 companies. Schema and implementation details remain internal.
 
-📄 **[Enterprise Accounting Engine — SQL Design Highlights](https://github.com/mozammelbhuyan/enterprise-accounting-engine)** *(personal design work)*
-Curated T-SQL procedures from a multi-business accounting & inventory blueprint I designed independently — fiscal-period resolution, balanced-entry voucher posting/unposting, year-end closing with P&L netting, and a FIFO/LIFO/Weighted-Average inventory costing engine.
+📄 **[Enterprise Accounting Engine — SQL Design Highlights](https://github.com/mozammelbhuyan/enterprise-accounting-engine)**
+Selected T-SQL design work: fiscal-period resolution, voucher posting/unposting, year-end closing with P&L netting, and a FIFO/LIFO/weighted-average inventory costing engine.
 
 📄 **[Ride-Sharing Passenger Dispatch — Research Implementation](https://github.com/mozammelbhuyan/Python_ride_sharing_project)** *(Northeastern University research)*
-Codebase and algorithm documentation supporting our research (currently a preprint under peer review): *"A Novel Framework: Optimal Passenger Dispatch Approach Using Matching-Based Strategy in Ride-Sharing Systems"* (Albishari, Mozammel & Almeshari, 2023 — [DOI](https://doi.org/10.21203/rs.3.rs-2504590/v1)). Formulates real-time constraints and a 7-parameter scoring model, solved via weighted bipartite matching; validated on the T-Drive Beijing taxi dataset with ~35% mileage savings and 96% passenger satisfaction vs. a nearest-vehicle baseline.
+Code and algorithm documentation supporting our research preprint (under peer review): *"A Novel Framework: Optimal Passenger Dispatch Approach Using Matching-Based Strategy in Ride-Sharing Systems"* (Albishari, Mozammel & Almeshari, 2023 — [DOI](https://doi.org/10.21203/rs.3.rs-2504590/v1)).
 
-**Customized Software Development Projects**
-- **WPPF Software** for Beximco Group (Pharmaceutical) — Requirement Discovery & Analysis, System Design, Documentation
-- **E-Procurement Software** for Seven Circle Group (Cement) — Requirement Discovery & Analysis, System Design, Documentation
-- **Integrated Command Control System** for Celltron (Political/Advocacy Software) — Requirement Discovery & Analysis, System Design, Documentation, Prototype
+### 🤝 ERP Client Projects
+
+| Client | Modules |
+|---|---|
+| **Lira Group** (6 companies) | Administration, Field Force, Supply Chain, Inventory, AR/AP, Tally integration |
+| **Asiatic Group** (3 textile companies) | Accounts, Purchase, Sales, Production, Commercial, HR & Payroll |
+| **Retail & POS** | Unimart, Tani's, Hightech Professional, Universal System |
+| **Other ERP** | Q-Bazar, Khana's, Insignia, Bosila Garden City, ASL |
+| **Custom systems** | WPPF (Beximco Group), E-Procurement (Seven Circle Group), Command Control (Celltron) |
 
 ---
 
-### 🛠️ ERP & Functional Skills
-`General Accounts` `Fixed Assets` `AR & AP` `Field Force Management` `Ecommerce & Back Office` `Import & Export (Commercial)` `Procurement & SCM` `Inventory/Logistics` `CRM` `Sales & Distribution (Primary & Secondary)` `POS` `Manufacturing & Planning` `BOM/Recipe & Costing` `Administration, HRM & Payroll` `Access Control & MIS Dashboards`
+### 🛠️ ERP Skills
+`Finance: GL, AR/AP, Fixed Assets` `Bangladesh VAT & Tax (Mushak, AIT, VDS)` `Procurement, Inventory & Warehouse` `Sales & Distribution, Field Force, POS, CRM` `Manufacturing, BOM, Costing & Planning` `Logistics, Commercial (Import & Export)` `HRM & Payroll` `MIS, Dashboards & Access Control`
 
-### 💻 Technical & Software Skills
-`ERP Implementation` `Custom ERP Architecture & Development` `Database Design` `ERP Module Integration` `Technical Documentation` `Report Design` `UAT & Go-Live` `Support & Maintenance` `Change Request (CR) Management` `Microsoft Dynamics 365 Business Central (in progress)`
+### 💻 Systems & IT Skills
+`ERP Implementation, UAT, Go-live & Training` `Requirements, Blueprints & Documentation` `Change Requests, Change Control & Handover` `IT Support, Networks, Servers & Backups` `IT Security & User Access Management` `Vendor & Offshore Team Coordination` `SQL Server: Database Design, T-SQL` `Crystal Reports & Excel Reporting` `Java / Spring Boot (working), Tomcat` `SAP Business One concepts` `AI-assisted Development (Claude Code)`
 
 ---
 
 ### 📚 Publications
-- Albishari, M., **Mozammel, M.**, & Almeshari, K. (2023). *A Novel Framework: Optimal Passenger Dispatch Approach Using Matching-Based Strategy in Ride-Sharing Systems.* Preprint, currently under peer review — Research Square. [DOI: 10.21203/rs.3.rs-2504590/v1](https://doi.org/10.21203/rs.3.rs-2504590/v1)
+- Albishari, M., **Mozammel, M.**, & Almeshari, K. (2023). *A Novel Framework: Optimal Passenger Dispatch Approach Using Matching-Based Strategy in Ride-Sharing Systems.* Preprint, under peer review — Research Square. [DOI: 10.21203/rs.3.rs-2504590/v1](https://doi.org/10.21203/rs.3.rs-2504590/v1)
 
 ### 🎓 Education
 - **MSc, Software Engineering** — Northeastern University, China (2017 – 2020)
@@ -113,22 +104,16 @@ Codebase and algorithm documentation supporting our research (currently a prepri
 - **BSc, Mathematics** — National University, Bangladesh (2004 – 2010)
 
 ### 📜 Certifications
-- Certificate of Neusoft on Advanced Project Training — Neusoft, Shenyang, China
-- Certificate on Enterprise System Analysis & Design — C#.NET, IDB-BISEW, Bangladesh
-- MCPD: Microsoft Certified Professional Developer — IDB-BISEW, Bangladesh
-- MCTS: .NET Framework 4, Web Applications — IDB-BISEW, Bangladesh
-- MCTS: .NET Framework 4, Data Access — IDB-BISEW, Bangladesh
-- MCTS: .NET Framework 4, Service Communication Applications — IDB-BISEW, Bangladesh
-- MCP: Microsoft Certified Professional — IDB-BISEW, Dhaka, Bangladesh
-- 🎯 *In progress:* MB-800 (Microsoft Dynamics 365 Business Central Functional Consultant)
+- Advanced Project Training — Neusoft, Shenyang, China
+- Microsoft Certified: MCPD, MCTS (.NET 4), MCP — IDB-BISEW, Dhaka, Bangladesh
 
 ### 🏆 Awards
-- Fully Funded Chinese Government Scholarship (CSC) for Master's Degree — Northeastern University, Shenyang, Liaoning, China (2017 – 2020)
-- Fully Funded Training on Enterprise System Analysis & Design — IDB-BISEW, Dhaka, Bangladesh (2012 – 2014)
+- Chinese Government Scholarship (CSC) for MSc — Northeastern University, China (2017 – 2020)
+- Fully funded training on Enterprise System Analysis & Design — IDB-BISEW, Dhaka (2012 – 2014)
 
 ### 🌐 Languages
 English (C1 – Working Proficiency) · Bangla (Native) · Chinese Mandarin (Basic)
 
 ---
 
-<p align="center"><i>Open to remote Microsoft Dynamics 365 Business Central consulting opportunities (local, India, UK, US, Australia).</i></p>
+<p align="center"><i>Open to ERP Lead, IT Manager, business systems and SAP Business One roles in Bangladesh, Malaysia, Singapore and China — on-site, hybrid or remote.</i></p>
