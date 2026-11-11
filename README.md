@@ -25,13 +25,14 @@ As Head of IT & ERP at Lira Group, I run a multi-company ERP for eight sister co
 
 **Manager – IT & ERP (HOD)** | *Lira Group of Industries, Dhaka, Bangladesh* (Polymer Manufacturing & Industrial Group) — *Jul 2023 – Present*
 - Built the group's ERP from scratch after the previous software failed: took a basic Sales, Inventory and AR system live within one month (requirements, scope, blueprint, reports and server deployment by me; Java coding by freelancers to my design), then grew it in 7 phases into a modular multi-company ERP for eight sister concerns.
-- Direct all change requests, integrations and cross-module improvements for manufacturing, distribution and retail operations.
-- Introduced AI-assisted development under strict change control (test server, backups, change reports, developer handover), delivering a major ERP enhancement programme and two new systems in 2026.
+- Own the ERP blueprint, SQL Server database design, stored procedures and Crystal Reports; direct all change requests.
+- Introduced AI-assisted development under strict change control (test server, backups, change reports, developer handover), delivering 121 ERP changes and two new systems in 2026.
 - Redesigned enterprise-wide IT infrastructure — security, uptime and connectivity across plants, depots and head office — and introduced IT policies and cybersecurity standards.
 - Manage and mentor the IT & ERP team; deliver MIS insights and management reporting.
 
 **Head of ERP** | *Automation Services Ltd. (ASL), Dhaka, Bangladesh* (Software Development & IT Consulting) — *Aug 2020 – Jun 2023*
-- Led the ERP team and ERP design: client demonstrations and presentations, requirement analysis, technical proposals, system blueprints, prototyping, implementation, training and post-go-live support.
+- Led the ERP team and owned the ASL ERP blueprint: integrated accounting, Procurement, Sales & Delivery, AR, AP, Inventory, Production, Administration, CRM, HR & Payroll.
+- Ran client demonstrations and presentations, requirement analysis, technical proposals, prototyping, implementation, training and post-go-live support.
 - Techno-functional consultant for Fusion Infotech Ltd.: requirements, system planning, module design and documentation for bespoke ERP solutions.
 - Implemented AJU ERP in four client companies in the manufacturing, trading and service sectors.
 
@@ -54,7 +55,7 @@ As Head of IT & ERP at Lira Group, I run a multi-company ERP for eight sister co
 
 | Project | Status | What I did |
 |---|---|---|
-| **Group ERP Enhancement Programme** (Lira Group) | Live | 121 documented ERP changes in 4 weeks through AI-assisted development: 4 management dashboards, vehicle recommendation and depot-transfer planning, faster stored-procedure reports, sales quotation module |
+| **Group ERP Development, Implementation & Enhancement** (Lira Group, 2023 – present) | Live in 8 companies | Developed and implemented in 7 phases: Administration, Sales & Distribution, Accounts Receivable, Field Force Management, Inventory, Shipment Management, MIS dashboards, Procurement, Accounts Payable and Tally integration. 2026 enhancements: 121 documented changes in 4 weeks through AI-assisted development (4 management dashboards, vehicle recommendation and depot-transfer planning, faster stored-procedure reports, sales quotation module) |
 | **Production Planning Decision-Support System** (Lira Group) | Built and tested; pilot pending approval | Designed a system that scores ~2,200 production items nightly across 3 companies and recommends a 7-day machine and mold schedule, with English and Bangla explanations |
 | **FieldSync – Secondary Sales App** (Lira Group) | Ready; pending approval | Designed a standalone secondary-sales system: GPS-verified outlet visits, supervisor approval, on-the-spot orders, 80mm receipts with QR code, delivery challans, WhatsApp/SMS sharing |
 | **ASPI ERP** (co-developed with a Java developer partner) | Earlier version in use by a client | System analyst and functional designer: accounting-focused, multi-company ERP built on SAP Business One practice — IFRS-ready accounting, FIFO and weighted-average costing, Bangladesh VAT (Mushak 9.1 / 6.6), AIT and VDS |
@@ -67,7 +68,7 @@ As Head of IT & ERP at Lira Group, I run a multi-company ERP for eight sister co
 Architecture for a modular, multi-company ERP: database schema, a metadata-driven screen/menu engine, a field-level privilege model and 100+ transaction screens across 8 modules.
 
 📄 **[Enterprise Data-Driven ERP — Multi-Company Manufacturing Platform](https://github.com/mozammelbhuyan/lira-erp-leadership)** *(Lira Group — current role)*
-Capability-level case study of the Lira Group ERP (Java/Spring Boot + MS SQL Server): AR/AP, Sales & Distribution, Procurement, Inventory, Production and Field Force across 8 companies. Schema and implementation details remain internal.
+Capability-level case study of the Lira Group ERP (Java/Spring Boot + MS SQL Server): Administration, Sales & Distribution, AR/AP, Field Force, Inventory, Shipment Management, Procurement and MIS dashboards across 8 companies, with Tally integration. Schema and implementation details remain internal.
 
 📄 **[Enterprise Accounting Engine — SQL Design Highlights](https://github.com/mozammelbhuyan/enterprise-accounting-engine)**
 Selected T-SQL design work: fiscal-period resolution, voucher posting/unposting, year-end closing with P&L netting, and a FIFO/LIFO/weighted-average inventory costing engine.
