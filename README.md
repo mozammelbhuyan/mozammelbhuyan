@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Mozammel Hossain Bhuyan</h1>
-<h3 align="center">Head of IT & ERP | ERP Lead & Solution Designer | Business Systems Analyst | 13+ Years in Software & ERP</h3>
+<h3 align="center">Head of IT & ERP | ERP Lead & Solution Designer | Business Systems Analyst | 10+ Years in Software & ERP</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/md-mozammel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -10,7 +10,7 @@
 
 ### 🧭 About Me
 
-ERP leader and business systems analyst with 13+ years of software experience, focused on taking ERP systems from requirement discovery to go-live and support for manufacturing, distribution, retail and textile companies.
+ERP leader and business systems analyst with 10+ years of software experience, focused on taking ERP systems from requirement discovery to go-live and support for manufacturing, distribution, retail and textile companies.
 
 As Head of IT & ERP at Lira Group, I run a multi-company ERP for eight sister concerns, along with the group's daily IT operations. I own the ERP blueprint, the database design (SQL Server), stored procedures, Crystal Reports and change control. I deliver much of my recent work through AI-assisted development (Claude Code), always under my own functional design, testing and change control.
 
@@ -41,11 +41,11 @@ As Head of IT & ERP at Lira Group, I run a multi-company ERP for eight sister co
 - Developed AI/ML algorithms for passenger dispatch optimization on ride-sharing platforms.
 - Interned at NEUSOFT as a software engineer on a Hospital Information System (C#, MS SQL Server).
 
-**Senior Software Developer** | *ZAB ERP Ltd, Dhaka, Bangladesh* — *Feb 2015 – Aug 2017*
+**Senior Software Developer** | *ZAB ERP Ltd, Dhaka, Bangladesh* — *Feb 2016 – Aug 2017*
 - Translated client business requirements into ERP design specifications across manufacturing, distribution and retail.
 - Wrote functional specifications, managed module development and ran end-user and client training.
 
-**Software Programmer** | *Global (BD) Nationwide Ltd, Dhaka, Bangladesh* — *Feb 2012 – Jan 2015*
+**Software Programmer** | *Global (BD) Nationwide Ltd, Dhaka, Bangladesh* — *Jun 2014 – Jan 2016*
 - Supported and enhanced ERP applications for SME clients in manufacturing, trading and service.
 - Managed project planning, scheduling, training, go-live, maintenance and documentation.
 
