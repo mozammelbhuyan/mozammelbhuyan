@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Mozammel Hossain Bhuyan</h1>
-<h3 align="center">Head of IT & ERP | ERP Lead & Solution Designer | Business Systems Analyst | 13+ Years in ERP</h3>
+<h3 align="center">Head of IT & ERP | ERP Lead & Solution Designer | Business Systems Analyst | 13+ Years in Software & ERP</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/md-mozammel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -10,7 +10,7 @@
 
 ### 🧭 About Me
 
-ERP leader and business systems analyst with 13+ years of experience taking ERP systems from requirement discovery to go-live and support for manufacturing, distribution, retail and textile companies.
+ERP leader and business systems analyst with 13+ years of software experience, focused on taking ERP systems from requirement discovery to go-live and support for manufacturing, distribution, retail and textile companies.
 
 As Head of IT & ERP at Lira Group, I run a multi-company ERP for eight sister concerns, along with the group's daily IT operations. I own the ERP blueprint, the database design (SQL Server), stored procedures, Crystal Reports and change control. I deliver much of my recent work through AI-assisted development (Claude Code), always under my own functional design, testing and change control.
 
@@ -79,7 +79,7 @@ Code and algorithm documentation supporting our research preprint (under peer re
 
 | Client | Modules |
 |---|---|
-| **Lira Group** (6 companies) | Administration, Field Force, Supply Chain, Inventory, AR/AP, Tally integration |
+| **Lira Group** (8 companies) | Administration, Field Force, Supply Chain, Inventory, AR/AP, Tally integration |
 | **Asiatic Group** (3 textile companies) | Accounts, Purchase, Sales, Production, Commercial, HR & Payroll |
 | **Retail & POS** | Unimart, Tani's, Hightech Professional, Universal System |
 | **Other ERP** | Q-Bazar, Khana's, Insignia, Bosila Garden City, ASL |
